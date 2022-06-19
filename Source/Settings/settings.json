@@ -1,0 +1,30 @@
+{
+  "botToken": "OTg4MDI1NTk5MjQxMTIxODAy.Guodyf.N5Qf_FW13VBBnsGZhSj5lZH-7t6nwVPV4LImUo",
+  "botOwner": "948267048545448016",
+  "botPrefix": ".",
+  "botVoiceChannel": "985104265288749138",
+  "botActivityName": "PLAYING",
+  "botActivityType": "WATCHING/LISTENING/PLAYING",
+  "botStatus": "online/dnd/idle",
+
+  "mongoConnectionLink": "mongodb+srv://alcadras31:alcadras31@cluster0.5a9zw.mongodb.net/?retryWrites=true&w=majority",
+
+  "welcomeChannel": "985104264705761330",
+  "rulesChannel": "985104270657474641",
+  "Suspicious": "985104243058962512",
+  "Unregistered": "985104227636477962",
+
+
+  "FamilyRole": "985104214361505823",
+  "Tag": "✣",
+  "Untag": "✣",
+
+  "RegisterStaff": ["985104210628599838", "|| Registerian"],
+  "ManRole": "985104225392549939",
+  "WomanRole": "985104223786127362",
+  "BoosterRole": "968177909829337149",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}

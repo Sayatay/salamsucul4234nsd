@@ -1,0 +1,20 @@
+{
+  "name": "registerwithbuttons",
+  "version": "1.0.0",
+  "description": "## KURULUM <ul>   <li><p>Cihazınıza <a href=\"https://nodejs.org/en/\" rel=\"nofollow\">Node.js</a> kurun</p></li>   <li><p>Yeşil renkli <code>Code</code> butonuna tıklayın ve projeyi .zip formatında indirin.</p></li>   <li><p>İndirme tamamlandıktan sonra masaüstüne ayıklayın ve projeyi açın.</p></li>   <li><p>Projeyi açtıktan sonra <code>Source > Settings > settings.json</code> dosyasını uygun bir şekilde doldurun.</p></li>   <li><p>Projeyi kullanabilmek için <code>MongoDB Connection Link</code> gerekmektedir. Eğer almayı bilmiyorsanız <a href=\"https://youtu.be/s_-gJn9GDus\" ref=\"nofollow\"> tıklayın</a>.</p></li>   <li><p>Botu başlatmak için; Consolu açın ardından <code>npm init -y</code>, <code>npm install</code> komutlarını sırasıyla yazın ve modüllerin kurulmasını bekleyin. Modüller kurulduktan sonra <code>node .</code> yazarak botu başlatabilirsiniz. Botun developer sayfasındaki intentlerini açmayı unutmayın yoksa çalışmaz!</p></li> </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Lucy",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.14",
+    "ms": "^2.1.3"
+  },
+  "keywords": []
+}
